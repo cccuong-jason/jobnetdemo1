@@ -8,11 +8,11 @@
     { "id": 6, "title": "Job 6", "body":"Descreption 6","flex":6 }
   ],
   "image": [
-    { "id": 1, "src"="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042014/bookngo-holidays-logo.png?itok=U5J25muH"},
-    { "id": 2, "src"="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052017/untitled-1_64.png?itok=Qg1x_XAE" },
-    { "id": 3, "src"="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/082011/oxfordpv_logo-03.png?itok=nph4PqyT" },
-    { "id": 4, "src"="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0013/7075/brand.gif?itok=4tWyKEUn" },
-    { "id": 5, "src"="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/102010/rockwellcollinslogo.png?itok=mYQHr-1_" },
-    { "id": 6, "src"="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/022015/viitech_final_logo_0.png?itok=vYA2JRs8" }
+    { "id": 1, "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042014/bookngo-holidays-logo.png?itok=U5J25muH"},
+    { "id": 2, "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/052017/untitled-1_64.png?itok=Qg1x_XAE" },
+    { "id": 3, "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/082011/oxfordpv_logo-03.png?itok=nph4PqyT" },
+    { "id": 4, "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0013/7075/brand.gif?itok=4tWyKEUn" },
+    { "id": 5, "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/102010/rockwellcollinslogo.png?itok=mYQHr-1_" },
+    { "id": 6, "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/022015/viitech_final_logo_0.png?itok=vYA2JRs8" }
   ]
 }
