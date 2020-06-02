@@ -1,10 +1,10 @@
 {
   "job": [
-    { "id": 1, "title": "Job 1", "body":"Description 1", "flex":"6" },
-    { "id": 2, "title": "Job 2", "body":"Descreption 2","flex":"6" },
-    { "id": 3, "title": "Job 3", "body":"Descreption 3","flex":"6" },
-    { "id": 4, "title": "Job 4", "body":"Descreption 4","flex":"6" },
-    { "id": 5, "title": "Job 5", "body":"Descreption 5","flex":"6" },
-    { "id": 6, "title": "Job 6", "body":"Descreption 6","flex":"6" }
+    { "id": 1, "title": "Job 1", "body":"Description 1", "flex":6 },
+    { "id": 2, "title": "Job 2", "body":"Descreption 2","flex":6 },
+    { "id": 3, "title": "Job 3", "body":"Descreption 3","flex":6 },
+    { "id": 4, "title": "Job 4", "body":"Descreption 4","flex":6 },
+    { "id": 5, "title": "Job 5", "body":"Descreption 5","flex":6 },
+    { "id": 6, "title": "Job 6", "body":"Descreption 6","flex":6 }
   ]
 }
