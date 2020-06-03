@@ -10,7 +10,7 @@
      "post":"Jun 1-1 hours ago",
      "salary":"400",
      "address":" 130 Đường 40 KDC Tân Quy Đông, Phường Tân Phong, Quận 7, TPHCM",
-     "expert":"student"
+     "experience":"student"
     },
     { 
       "id": 2, 
@@ -22,7 +22,7 @@
       "post":"Mar 13-2 months ago",
       "salary":"700",
       "address":"16A Lê Hồng Phong, P 12, Q. 10, TPHCM",
-      "expert":"professor"
+      "experience":"professor"
     },
     { 
       "id": 3, 
@@ -31,10 +31,7 @@
       "body":"Phát triển các giải pháp web E-commerce các nền tảng mạng ứng dụng lớn trên nền PHP/MySQL, cả với các opensource thông dụng (Magento, WordPress, etc) hay custom code",
       "flex":6, 
       "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/082011/oxfordpv_logo-03.png?itok=nph4PqyT",
-      "post":"May 30-2 days ago",
-      "salary":"1000",
-      "address":" 308C Điện Biên Phủ, Phường 4, Quận 3, Hồ Chí Minh",
-      "expert":"senior"
+      "experience":"senior"
     },
     { 
       "id": 4, 
@@ -46,7 +43,7 @@
       "post":"May 31-1 days ago",
       "salary":"900",
       "address":" 123 Cộng Hoà, phường 12, Tân Bình, TP HCM",
-      "expert":"junior"
+      "experience":"junior"
     },
     { 
       "id": 5, 
@@ -57,7 +54,8 @@
       "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/102010/rockwellcollinslogo.png?itok=mYQHr-1_",
       "post":"Jun 2-5 hours ago",
       "salary":"1500",
-      "address":"  Lô 37 - 39A, Đường số 19, Khu chế xuất Tân Thuận, phường Tân Thuận Đông, quận 7, TP Hồ Chí Minh"
+      "address":"  Lô 37 - 39A, Đường số 19, Khu chế xuất Tân Thuận, phường Tân Thuận Đông, quận 7, TP Hồ Chí Minh",
+      "experience":"senior"
     },
     { 
       "id": 6, 
@@ -69,7 +67,7 @@
       "post":"Apr 30-1 month ago",
       "salary":"Negotiable",
       "address":"25 Hưng Gia 2, Phường Tân Phong, Quận 7",
-      "expert":"junior"
+      "experience":"junior"
     }
   ]
 }
