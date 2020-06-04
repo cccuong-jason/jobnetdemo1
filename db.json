@@ -1,4 +1,5 @@
-[
+{
+    "job":[
     { 
      "id": 1, 
      "company": "Book N Go", 
@@ -71,4 +72,5 @@
       "address":"25 Hưng Gia 2, Phường Tân Phong, Quận 7",
       "experience":"junior"
     }
-]
+  ]
+}
