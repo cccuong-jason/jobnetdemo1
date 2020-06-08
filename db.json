@@ -83,66 +83,6 @@
      "salary":"400",
      "address":" 130 Đường 40 KDC Tân Quy Đông, Phường Tân Phong, Quận 7, TPHCM",
      "experience":"student"
-    },
-    { 
-     "id": 8, 
-     "company": "Book N Go", 
-     "job":"Front-end Developer",
-     "body":"OPUS SOLUTION có nhiều kinh nghiệm làm việc với các tổ chức phi lợi nhuận và các doanh nghiệp, tập đoàn tại Việt Nam trong mảng ngân hàng, bệnh viện, sản xuất.... Mục tiêu của chúng tôi là đưa ra các giải pháp thông minh để đáp ứng các yêu cầu của doanh nghiệp và hơn thế nữa. Công ty của chúng tôi phát triển và cá nhân hóa các giải pháp xử lý qui trình nội bộ, hệ thống tài liệu doanh nghiệp, dựa trên bộ máy làm việc của những doanh nghiệp tốt nhất. Xây dựng tự động hóa qui trình và chuyển đổi số Digital Transformation đáp ứng các giải pháp cho cuộc cách mạng công nghiệp 4.0", 
-     "flex":6,
-     "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042014/bookngo-holidays-logo.png?itok=U5J25muH",
-     "post":"Jun 1-1 hours ago",
-     "salary":"400",
-     "address":" 130 Đường 40 KDC Tân Quy Đông, Phường Tân Phong, Quận 7, TPHCM",
-     "experience":"student"
-    },
-    { 
-     "id": 9, 
-     "company": "Book N Go", 
-     "job":"Front-end Developer",
-     "body":"OPUS SOLUTION có nhiều kinh nghiệm làm việc với các tổ chức phi lợi nhuận và các doanh nghiệp, tập đoàn tại Việt Nam trong mảng ngân hàng, bệnh viện, sản xuất.... Mục tiêu của chúng tôi là đưa ra các giải pháp thông minh để đáp ứng các yêu cầu của doanh nghiệp và hơn thế nữa. Công ty của chúng tôi phát triển và cá nhân hóa các giải pháp xử lý qui trình nội bộ, hệ thống tài liệu doanh nghiệp, dựa trên bộ máy làm việc của những doanh nghiệp tốt nhất. Xây dựng tự động hóa qui trình và chuyển đổi số Digital Transformation đáp ứng các giải pháp cho cuộc cách mạng công nghiệp 4.0", 
-     "flex":6,
-     "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042014/bookngo-holidays-logo.png?itok=U5J25muH",
-     "post":"Jun 1-1 hours ago",
-     "salary":"400",
-     "address":" 130 Đường 40 KDC Tân Quy Đông, Phường Tân Phong, Quận 7, TPHCM",
-     "experience":"student"
-    },
-    { 
-     "id": 10, 
-     "company": "Book N Go", 
-     "job":"Front-end Developer",
-     "body":"OPUS SOLUTION có nhiều kinh nghiệm làm việc với các tổ chức phi lợi nhuận và các doanh nghiệp, tập đoàn tại Việt Nam trong mảng ngân hàng, bệnh viện, sản xuất.... Mục tiêu của chúng tôi là đưa ra các giải pháp thông minh để đáp ứng các yêu cầu của doanh nghiệp và hơn thế nữa. Công ty của chúng tôi phát triển và cá nhân hóa các giải pháp xử lý qui trình nội bộ, hệ thống tài liệu doanh nghiệp, dựa trên bộ máy làm việc của những doanh nghiệp tốt nhất. Xây dựng tự động hóa qui trình và chuyển đổi số Digital Transformation đáp ứng các giải pháp cho cuộc cách mạng công nghiệp 4.0", 
-     "flex":6,
-     "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042014/bookngo-holidays-logo.png?itok=U5J25muH",
-     "post":"Jun 1-1 hours ago",
-     "salary":"400",
-     "address":" 130 Đường 40 KDC Tân Quy Đông, Phường Tân Phong, Quận 7, TPHCM",
-     "experience":"student"
-    },
-    { 
-     "id": 11, 
-     "company": "Book N Go", 
-     "job":"Front-end Developer",
-     "body":"OPUS SOLUTION có nhiều kinh nghiệm làm việc với các tổ chức phi lợi nhuận và các doanh nghiệp, tập đoàn tại Việt Nam trong mảng ngân hàng, bệnh viện, sản xuất.... Mục tiêu của chúng tôi là đưa ra các giải pháp thông minh để đáp ứng các yêu cầu của doanh nghiệp và hơn thế nữa. Công ty của chúng tôi phát triển và cá nhân hóa các giải pháp xử lý qui trình nội bộ, hệ thống tài liệu doanh nghiệp, dựa trên bộ máy làm việc của những doanh nghiệp tốt nhất. Xây dựng tự động hóa qui trình và chuyển đổi số Digital Transformation đáp ứng các giải pháp cho cuộc cách mạng công nghiệp 4.0", 
-     "flex":6,
-     "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042014/bookngo-holidays-logo.png?itok=U5J25muH",
-     "post":"Jun 1-1 hours ago",
-     "salary":"400",
-     "address":" 130 Đường 40 KDC Tân Quy Đông, Phường Tân Phong, Quận 7, TPHCM",
-     "experience":"student"
-    },
-    { 
-     "id": 12, 
-     "company": "Book N Go", 
-     "job":"Front-end Developer",
-     "body":"OPUS SOLUTION có nhiều kinh nghiệm làm việc với các tổ chức phi lợi nhuận và các doanh nghiệp, tập đoàn tại Việt Nam trong mảng ngân hàng, bệnh viện, sản xuất.... Mục tiêu của chúng tôi là đưa ra các giải pháp thông minh để đáp ứng các yêu cầu của doanh nghiệp và hơn thế nữa. Công ty của chúng tôi phát triển và cá nhân hóa các giải pháp xử lý qui trình nội bộ, hệ thống tài liệu doanh nghiệp, dựa trên bộ máy làm việc của những doanh nghiệp tốt nhất. Xây dựng tự động hóa qui trình và chuyển đổi số Digital Transformation đáp ứng các giải pháp cho cuộc cách mạng công nghiệp 4.0", 
-     "flex":6,
-     "src":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/042014/bookngo-holidays-logo.png?itok=U5J25muH",
-     "post":"Jun 1-1 hours ago",
-     "salary":"400",
-     "address":" 130 Đường 40 KDC Tân Quy Đông, Phường Tân Phong, Quận 7, TPHCM",
-     "experience":"student"
     }
   ]
 }
