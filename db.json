@@ -81,31 +81,31 @@
       "src":"https://i.pinimg.com/474x/39/bb/55/39bb559e7507d6f6a97de25eace9d8fe--deer-steak-design-logo.jpg",
       "post":"Apr 28-1 month ago",
       "salary":"780",
-      "address":"A1/21A Quốc Lộ 50, Phong Phú, Bình Chánh",
+      "address":"A1/21A Quốc Lộ 50, Phong Phú, Bình Chánh, TPHCM",
       "experience":"senior"
     },
     {
        "id": 8, 
-      "company": "Deer Beer",
+      "company": "Oregon West Hocket League",
       "job":"Full Stack Developer",
       "body":"Tham gia phát triển và xây dựng phần Frontend các dự án của công ty. Thiết kế và phát triển định hướng nền tảng web hướng người sử dụng.Tham gia các dự án phát triển và bảo trì phần mềm khác nhau.Tham gia trao đổi phát triển sản phẩm theo định hướng công ty.Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận",
       "flex":6, 
-      "src":"https://i.pinimg.com/474x/39/bb/55/39bb559e7507d6f6a97de25eace9d8fe--deer-steak-design-logo.jpg",
+      "src":"https://i.pinimg.com/564x/57/bb/af/57bbaf20b4bffa092df5db1c41a43f91.jpg",
       "post":"Apr 28-1 month ago",
-      "salary":"780",
-      "address":"A1/21A Quốc Lộ 50, Phong Phú, Bình Chánh",
-      "experience":"senior"
+      "salary":"999",
+      "address":"19 Nguyễn Hữu Thọ, Tân Phong, Quận 7, TPHCM",
+      "experience":"junior"
     },
     {
        "id": 9, 
-      "company": "Deer Beer",
-      "job":"Full Stack Developer",
+      "company": "Lorem Ipsum",
+      "job":"Python Developer",
       "body":"Tham gia phát triển và xây dựng phần Frontend các dự án của công ty. Thiết kế và phát triển định hướng nền tảng web hướng người sử dụng.Tham gia các dự án phát triển và bảo trì phần mềm khác nhau.Tham gia trao đổi phát triển sản phẩm theo định hướng công ty.Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận",
       "flex":6, 
-      "src":"https://i.pinimg.com/474x/39/bb/55/39bb559e7507d6f6a97de25eace9d8fe--deer-steak-design-logo.jpg",
+      "src":"https://pngimage.net/wp-content/uploads/2018/06/sample-company-logo-png-8.png",
       "post":"Apr 28-1 month ago",
-      "salary":"780",
-      "address":"A1/21A Quốc Lộ 50, Phong Phú, Bình Chánh",
+      "salary":"1200",
+      "address":"357 Thành Thái, Quận 10, TPHCM",
       "experience":"senior"
     }
   ]
