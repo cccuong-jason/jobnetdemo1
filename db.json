@@ -1,7 +1,7 @@
 {
     "job":[
     { 
-     "id": 1, 
+     "id": 0, 
      "company": "Book N Go", 
      "job":"Front-end Developer",
      "body":"OPUS SOLUTION có nhiều kinh nghiệm làm việc với các tổ chức phi lợi nhuận và các doanh nghiệp, tập đoàn tại Việt Nam trong mảng ngân hàng, bệnh viện, sản xuất.... Mục tiêu của chúng tôi là đưa ra các giải pháp thông minh để đáp ứng các yêu cầu của doanh nghiệp và hơn thế nữa. Công ty của chúng tôi phát triển và cá nhân hóa các giải pháp xử lý qui trình nội bộ, hệ thống tài liệu doanh nghiệp, dựa trên bộ máy làm việc của những doanh nghiệp tốt nhất. Xây dựng tự động hóa qui trình và chuyển đổi số Digital Transformation đáp ứng các giải pháp cho cuộc cách mạng công nghiệp 4.0", 
@@ -13,7 +13,7 @@
      "experience":"student"
     },
     { 
-      "id": 2, 
+      "id": 1, 
       "company": "GS Tech", 
       "job":"Thực tập sinh lập trình web",
       "body":"Tham gia phát triển và xây dựng phần Frontend các dự án của công ty. Thiết kế và phát triển định hướng nền tảng web hướng người sử dụng.Tham gia các dự án phát triển và bảo trì phần mềm khác nhau.Tham gia trao đổi phát triển sản phẩm theo định hướng công ty.Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận",
@@ -25,7 +25,7 @@
       "experience":"professor"
     },
     { 
-      "id": 3, 
+      "id": 2, 
       "company": "Oxford PV",
       "job":"Mobile developer",
       "body":"Phát triển các giải pháp web E-commerce các nền tảng mạng ứng dụng lớn trên nền PHP/MySQL, cả với các opensource thông dụng (Magento, WordPress, etc) hay custom code",
@@ -37,7 +37,7 @@
       "experience":"senior"
     },
     { 
-      "id": 4, 
+      "id": 3, 
       "company": "POC",
       "job":"AI Internship",
       "body":"Tham gia phát triển và xây dựng phần Frontend các dự án của công ty. Thiết kế và phát triển định hướng nền tảng web hướng người sử dụng.Tham gia các dự án phát triển và bảo trì phần mềm khác nhau.Tham gia trao đổi phát triển sản phẩm theo định hướng công ty.Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận",
@@ -49,7 +49,7 @@
       "experience":"junior"
     },
     { 
-      "id": 5, 
+      "id": 4, 
       "company": "Rockwell Collin",
       "job":"PHP Developer",
       "body":"Tham gia phát triển và xây dựng phần Frontend các dự án của công ty. Thiết kế và phát triển định hướng nền tảng web hướng người sử dụng.Tham gia các dự án phát triển và bảo trì phần mềm khác nhau.Tham gia trao đổi phát triển sản phẩm theo định hướng công ty.Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận",
@@ -61,7 +61,7 @@
       "experience":"senior"
     },
     { 
-      "id": 6, 
+      "id": 5, 
       "company": "Viitech",
       "job":"Java Developer",
       "body":"Tham gia phát triển và xây dựng phần Frontend các dự án của công ty. Thiết kế và phát triển định hướng nền tảng web hướng người sử dụng.Tham gia các dự án phát triển và bảo trì phần mềm khác nhau.Tham gia trao đổi phát triển sản phẩm theo định hướng công ty.Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận",
@@ -73,7 +73,7 @@
       "experience":"junior"
     },
     {
-       "id": 7, 
+       "id": 6, 
       "company": "Deer Beer",
       "job":"Full Stack Developer",
       "body":"Tham gia phát triển và xây dựng phần Frontend các dự án của công ty. Thiết kế và phát triển định hướng nền tảng web hướng người sử dụng.Tham gia các dự án phát triển và bảo trì phần mềm khác nhau.Tham gia trao đổi phát triển sản phẩm theo định hướng công ty.Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận",
@@ -85,7 +85,7 @@
       "experience":"senior"
     },
     {
-       "id": 8, 
+       "id": 7, 
       "company": "Oregon West Hocket League",
       "job":"Full Stack Developer",
       "body":"Tham gia phát triển và xây dựng phần Frontend các dự án của công ty. Thiết kế và phát triển định hướng nền tảng web hướng người sử dụng.Tham gia các dự án phát triển và bảo trì phần mềm khác nhau.Tham gia trao đổi phát triển sản phẩm theo định hướng công ty.Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận",
@@ -97,7 +97,7 @@
       "experience":"junior"
     },
     {
-       "id": 9, 
+       "id": 8, 
       "company": "Lorem Ipsum",
       "job":"Python Developer",
       "body":"Tham gia phát triển và xây dựng phần Frontend các dự án của công ty. Thiết kế và phát triển định hướng nền tảng web hướng người sử dụng.Tham gia các dự án phát triển và bảo trì phần mềm khác nhau.Tham gia trao đổi phát triển sản phẩm theo định hướng công ty.Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận",
