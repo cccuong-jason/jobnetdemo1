@@ -110,9 +110,9 @@
     }
   ],
     "images": [
-        { id: 0, src: '/apply_bg.jpg', text: 'Xin chao toi la so 0' },
-        { id: 1, src: '/avata.jpg', text: 'Xin chao toi la so 1' },
-        { id: 2, src: '/cover.jpg', text: 'Xin chao toi la so 2' },
-        { id: 3, src: '/logo.jpg', text: 'Xin chao toi la so 3' }
+        { "id": 0, "src": "/apply_bg.jpg", "text": "Xin chao toi la so 0" },
+        { "id": 1, "src": "/avata.jpg", "text": "Xin chao toi la so 1" },
+        { "id": 2, "src": "/cover.jpg", "text": "Xin chao toi la so 2" },
+        { "id": 3, "src": "/logo.jpg", "text": "Xin chao toi la so 3" }
         ]
 }
