@@ -107,6 +107,18 @@
       "salary":"1200",
       "address":"357 Thành Thái, Quận 10, TPHCM",
       "experience":"senior"
+    },
+    {
+      "id": 9,
+      "company": "FPT",
+      "job": "Tuyển dụng thực tập sinh",
+      "body": "Bạn là sinh viên năm 3 trở lên đang theo học khối ngành Công nghệ tại các trường Đại học, Cao đẳng trên địa bàn Hà Nội và Thành phố Hồ Chí Minh. Kết quả học tập Khá trở lên tính đến thời điểm ứng tuyển. Điện tử viễn thông: Đã hoàn thành hoặc đang theo học các chứng chỉ CCNA, CCNP, CCIE, JNCIA, JNCIS, JNCIP, JNCIE …) Công nghệ thông tin: Có định hướng đi theo lĩnh vực Lập trình, Bảo mật, Hệ thống…. QUYỀN LỢI CỦA BẠN KHI THAM GIA SINH VIÊN CÔNG NGHỆ TẬP SỰ FPT TELECOM 2020: Hưởng mức thu nhập kỳ tập sự hấp dẫn ngay từ khi còn là sinh viên. Hoạt động ĐÀO TẠO bài bản, và đa dạng với hai chương trình nổi bật: mô hình 1 thầy 1 trò, và mô hình đối thoại cùng chuyên gia công nghệ HOÀN TOÀN MIỄN PHÍ. Cam kết kí Hợp đồng lao động chính chính thức nếu đáp ứng được yêu cầu công việc sau khi kết thúc thời gian tập sự và có bằng tốt nghiệp. Tài trợ chi phí để học và thi các chứng chỉ quốc tế (CCIE, JNCIE, MCSE, CISSP, MCITP….)",
+      "flex": 6,
+      "src": "https://jobnet.com.vn/image//company/fpttelecom.png",
+      "post": "Jun 2-2 hours ago",
+      "salary": "550",
+      "address": "Lô 29B-31B-33B, đường Tân Thuận, Phường Tân Thuận Đông, Khu chế xuất Tân Thuận, Tân Thuận Đông, Quận 7, Hồ Chí Minh",
+      "experience": "student"
     }
   ],
     "images": [
