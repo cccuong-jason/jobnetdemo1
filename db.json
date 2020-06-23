@@ -119,7 +119,19 @@
       "salary": "550",
       "address": "Lô 29B-31B-33B, đường Tân Thuận, Phường Tân Thuận Đông, Khu chế xuất Tân Thuận, Tân Thuận Đông, Quận 7, Hồ Chí Minh",
       "experience": "student"
-    }
+    },
+    {
+      "id": 10,
+      "company": "Pasona Tech Vietnam",
+      "job": "Chương trình thực tập của công ty Pasona Tech Vietnam",
+      "body": "Job descriptions. Pasona Tech Việt Nam là công ty 100% vốn Nhật Bản, chuyên cung cấp dịch vụ phần mềm, kỹ thuật ứng dụng, dịch vụ giới thiệu việc làm, v.v... cho các công ty Nhật Bản trong và ngoài nước. Pasona Tech Việt Nam đang thúc đẩy chương trình tuyển thực tâp sinh có năng lực nhằm chuẩn bị hành trang trước khi ra trường cho các bạn sinh viên. Sinh viên sẽ có cơ hội học hỏi và trải nghiệm môi trường làm việc trẻ trung, năng động và chuyên nghiệp, được áp dụng những kiến thức đã học vào thực tế. Đặc biệt, khi kết thúc chương trình thực tập, sinh viên sẽ có cơ hội trở thành nhân viên chính thức của Pasona Tech Việt Nam. Requirements. Sinh viên năm 3 hoặc năm cuối, có thể thực tập liên tục từ 3 tháng trở lên, thời gian thực tập ít nhất 4 giờ/ ngày. Chỉ cần có tiếng Nhật (N3) đối với vị trí Nhân viên Kiểm thử. Có ngành học phù hợp với vị trí Lập trình viên: công nghệ thông tin, kỹ thuật phần mềm, hệ thống nhúng... Ưu tiên sinh viên có kiến thức về Java, C#. Hòa đồng, có tinh thần hợp tác, ham học hỏi, có trách nhiệm với công việc. ",
+      "flex": 6,
+      "src": "https://jobnet.com.vn/image//company/pasonatechvn.png",
+      "post": "June 3-5 hours ago",
+      "salary": "5500",
+      "address": "Lầu 4, Tòa nhà e.town 1, 364 Cộng Hoà, P. 13, Q. Tân Bình, Tp. HCM.",
+      "experience": "student"
+    }      
   ],
     "images": [
         { "id": 0, "src": "/apply_bg.jpg", "text": "Xin chao toi la so 0" },
