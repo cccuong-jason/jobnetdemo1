@@ -131,7 +131,19 @@
       "salary": "5500",
       "address": "Lầu 4, Tòa nhà e.town 1, 364 Cộng Hoà, P. 13, Q. Tân Bình, Tp. HCM.",
       "experience": "student"
-    }      
+    },
+    {
+      "id": 11,
+      "company": "CYBOZU VIỆT NAM",
+      "job": "CHƯƠNG TRÌNH THỰC TẬP HÈ 2020 - CYBOZU VIỆT NAM",
+      "body": "Job descriptions Công ty Cybozu Việt Nam được thành lập năm 2009 là công ty con của công ty Cybozu, Inc. ở Nhật Bản chuyên về phát triển các phần mềm hỗ trợ làm việc nhóm (groupware). Công ty Cybozu Việt Nam có những bộ phận phát triển phần mềm và kiểm tra chất lượng phần mềm nhiều năm kinh nghiệm, kỹ thuật cao. Hiện tại Cybozu đang phát triển những sản phẩm ứng dụng kỹ thuật, công nghệ như PHP7, ES6, CI/CD, điện toán đám mây. Cybozu tự hào là công ty chiếm thị phần cao nhất về phần mềm Collaboration tại Nhật Bản và là công ty nhiều năm liền đạt danh hiệu số 1 về Dịch vụ làm hài lòng khách hàng."
+      "flex": 6,
+      "src": "https://jobnet.com.vn/image//company/cybozuvn.png",
+      "post": "July 3-7 hours ago",
+      "salary": "4000",
+      "address": "Phòng 101, Tầng 1, Tòa nhà Centre Point, 106 Nguyễn Văn Trỗi,Phường 8, Quận Phú Nhuận, TP. Hồ Chí Minh",
+      "experience": "student"
+    }       
   ],
     "images": [
         { "id": 0, "src": "/apply_bg.jpg", "text": "Xin chao toi la so 0" },
