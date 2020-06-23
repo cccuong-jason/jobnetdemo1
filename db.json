@@ -107,7 +107,91 @@
       "salary":"1200",
       "address":"357 Thành Thái, Quận 10, TPHCM",
       "experience":"senior"
-    }
+    },
+    {
+      "id": 9,
+      "company": "FPT",
+      "job": "Tuyển dụng thực tập sinh",
+      "body": "Bạn là sinh viên năm 3 trở lên đang theo học khối ngành Công nghệ tại các trường Đại học, Cao đẳng trên địa bàn Hà Nội và Thành phố Hồ Chí Minh. Kết quả học tập Khá trở lên tính đến thời điểm ứng tuyển. Điện tử viễn thông: Đã hoàn thành hoặc đang theo học các chứng chỉ CCNA, CCNP, CCIE, JNCIA, JNCIS, JNCIP, JNCIE …) Công nghệ thông tin: Có định hướng đi theo lĩnh vực Lập trình, Bảo mật, Hệ thống…. QUYỀN LỢI CỦA BẠN KHI THAM GIA SINH VIÊN CÔNG NGHỆ TẬP SỰ FPT TELECOM 2020: Hưởng mức thu nhập kỳ tập sự hấp dẫn ngay từ khi còn là sinh viên. Hoạt động ĐÀO TẠO bài bản, và đa dạng với hai chương trình nổi bật: mô hình 1 thầy 1 trò, và mô hình đối thoại cùng chuyên gia công nghệ HOÀN TOÀN MIỄN PHÍ. Cam kết kí Hợp đồng lao động chính chính thức nếu đáp ứng được yêu cầu công việc sau khi kết thúc thời gian tập sự và có bằng tốt nghiệp. Tài trợ chi phí để học và thi các chứng chỉ quốc tế (CCIE, JNCIE, MCSE, CISSP, MCITP….)",
+      "flex": 6,
+      "src": "https://jobnet.com.vn/image//company/fpttelecom.png",
+      "post": "Jun 2-2 hours ago",
+      "salary": "550",
+      "address": "Lô 29B-31B-33B, đường Tân Thuận, Phường Tân Thuận Đông, Khu chế xuất Tân Thuận, Tân Thuận Đông, Quận 7, Hồ Chí Minh",
+      "experience": "student"
+    },
+    {
+      "id": 10,
+      "company": "Pasona Tech Vietnam",
+      "job": "Chương trình thực tập của công ty Pasona Tech Vietnam",
+      "body": "Job descriptions. Pasona Tech Việt Nam là công ty 100% vốn Nhật Bản, chuyên cung cấp dịch vụ phần mềm, kỹ thuật ứng dụng, dịch vụ giới thiệu việc làm, v.v... cho các công ty Nhật Bản trong và ngoài nước. Pasona Tech Việt Nam đang thúc đẩy chương trình tuyển thực tâp sinh có năng lực nhằm chuẩn bị hành trang trước khi ra trường cho các bạn sinh viên. Sinh viên sẽ có cơ hội học hỏi và trải nghiệm môi trường làm việc trẻ trung, năng động và chuyên nghiệp, được áp dụng những kiến thức đã học vào thực tế. Đặc biệt, khi kết thúc chương trình thực tập, sinh viên sẽ có cơ hội trở thành nhân viên chính thức của Pasona Tech Việt Nam. Requirements. Sinh viên năm 3 hoặc năm cuối, có thể thực tập liên tục từ 3 tháng trở lên, thời gian thực tập ít nhất 4 giờ/ ngày. Chỉ cần có tiếng Nhật (N3) đối với vị trí Nhân viên Kiểm thử. Có ngành học phù hợp với vị trí Lập trình viên: công nghệ thông tin, kỹ thuật phần mềm, hệ thống nhúng... Ưu tiên sinh viên có kiến thức về Java, C#. Hòa đồng, có tinh thần hợp tác, ham học hỏi, có trách nhiệm với công việc. ",
+      "flex": 6,
+      "src": "https://jobnet.com.vn/image//company/pasonatechvn.png",
+      "post": "June 3-5 hours ago",
+      "salary": "5500",
+      "address": "Lầu 4, Tòa nhà e.town 1, 364 Cộng Hoà, P. 13, Q. Tân Bình, Tp. HCM.",
+      "experience": "student"
+    },
+    {
+      "id": 11,
+      "company": "CYBOZU VIỆT NAM",
+      "job": "CHƯƠNG TRÌNH THỰC TẬP HÈ 2020 - CYBOZU VIỆT NAM",
+      "body": "Job descriptions Công ty Cybozu Việt Nam được thành lập năm 2009 là công ty con của công ty Cybozu, Inc. ở Nhật Bản chuyên về phát triển các phần mềm hỗ trợ làm việc nhóm (groupware). Công ty Cybozu Việt Nam có những bộ phận phát triển phần mềm và kiểm tra chất lượng phần mềm nhiều năm kinh nghiệm, kỹ thuật cao. Hiện tại Cybozu đang phát triển những sản phẩm ứng dụng kỹ thuật, công nghệ như PHP7, ES6, CI/CD, điện toán đám mây. Cybozu tự hào là công ty chiếm thị phần cao nhất về phần mềm Collaboration tại Nhật Bản và là công ty nhiều năm liền đạt danh hiệu số 1 về Dịch vụ làm hài lòng khách hàng."
+      "flex": 6,
+      "src": "https://jobnet.com.vn/image//company/cybozuvn.png",
+      "post": "July 3-7 hours ago",
+      "salary": "4000",
+      "address": "Phòng 101, Tầng 1, Tòa nhà Centre Point, 106 Nguyễn Văn Trỗi,Phường 8, Quận Phú Nhuận, TP. Hồ Chí Minh",
+      "experience": "student"
+    },
+    {
+      "id": 12,
+      "company": "Giải pháp Công nghệ XBoss",
+      "job": "THỰC TẬP LẬP TRÌNH ERP",
+      "body": "Job descriptions. Được đào tạo các kỹ năng để trở thành lập trình viên chuyên nghiệp.Được đào tạo về Python, Jquery, CSS, … Được đào tạo về nghiệp vụ, framework của phần mềm Odoo. Hằng tuần lên công ty 1-2 ngày để nhận các yêu cầu hoặc các bài tập từ Leader, các ngày còn lại được phép ở nhà thực hiện các công việc được giao. Báo cáo hằng ngày tiến độ công việc đến Leader. ",
+      "flex": 6,
+      "src": "https://jobnet.com.vn/image//company/xboss.png",
+      "post": "May 3-10 hours ago",
+      "salary": "3000",
+      "address": "136 - 138 Cô Bắc , P. Cô Giang, Q. 1, HCM",
+      "experience": "student"
+    },
+    {
+      "id": 13,
+      "company": "Công ty TNHH Gameloft",
+      "job": "LEAP 2020 - C# - Unity",
+      "body": "Hiện tại Gameloft đang khởi động chương trình LEAP 2020 (chương trình thực tập hàng năm), dự kiến cho các bạn sinh viên đăng kí vào ngày 05/06 sắp tới. Có khả năng thực tập toàn thời gian từ thứ 2 đến thứ 6.Có tinh thần trách nhiệm, khả năng làm việc nhóm và niềm yêu thích lập trình Game.",
+      "flex": 6,
+      "src": "https://jobnet.com.vn/image//company/gameloft.png",
+      "post": "October 4-11 hours ago",
+      "salary": "3500",
+      "address": "Tòa nhà Pax Sky, 26 Ung Văn Khiêm, phường 25, quận Bình Thạnh",
+      "experience": "student"
+    },
+    {
+      "id": 14,
+      "company": "Phương Nam Telecom",
+      "job": "Kỹ thuật viên đào tạo nội bộ",
+      "body": "Job descriptions.  Hỗ trợ xây dựng storyboard bài giảng. Chuyển thể nội dung trên phần mềm thiết kế bài giảng. Số hoá bài giảng (gắn âm thanh/hình ảnh/lời thoại/ làm tương tác cho phù hợp). Lập kế hoạch đào tạo theo tháng, quý, năm. Quản lý và triển khai các chương trình đào tạo. Giảng dạy, theo dõi và đánh giá học viên. Hỗ trợ các chi nhánh tỉnh tổ chức các chương trình đào tạo. Thực hiện các báo cáo định kỳ về công tác đào tạo. Các công việc khác theo sự phân công của Trưởng bộ phận",
+      "flex": 6,
+      "src": "https://jobnet.com.vn/image//company/phuongnamtel.png",
+      "post": "March 12-1 hours ago",
+      "salary": "2500",
+      "address": "130 Đường 40 KDC Tân Quy Đông, Phường Tân Phong, Quận 7, TPHCM",
+      "experience": "student"
+    },
+    {
+      "id": 15,
+      "company": "KMS Technology",
+      "job": "FRESHER FULL-STACK MOBILE SOFTWARE ENGINEER (KOBITON - GLOBAL PRODUCT)",
+      "body": "Job descriptions. Develop features and enhancements on existing products based on defined requirements and designs. Follow given procedures and instructions to produce well-designed, testable and clean code. Working on NodeJS and mobile frameworks. Integration between cross environments - desktop, web and mobile. Read log files and write automation test-scripts to investigate issues. Write samples and documents to guide for end-users",
+      "flex": 6,
+      "src": "https://jobnet.com.vn/image//company/kms.png",
+      "post": "March 2-5 minutes ago",
+      "salary": "200",
+      "address": "123 Cộng Hoà, phường 12, Tân Bình, TP HCM",
+      "experience": "student"
+    }  
   ],
     "images": [
         { "id": 0, "src": "/apply_bg.jpg", "text": "Xin chao toi la so 0" },
