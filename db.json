@@ -155,43 +155,7 @@
       "salary": "3000",
       "address": "136 - 138 Cô Bắc , P. Cô Giang, Q. 1, HCM",
       "experience": "student"
-    },
-    {
-      "id": 13,
-      "company": "Công ty TNHH Gameloft",
-      "job": "LEAP 2020 - C# - Unity",
-      "body": "Hiện tại Gameloft đang khởi động chương trình LEAP 2020 (chương trình thực tập hàng năm), dự kiến cho các bạn sinh viên đăng kí vào ngày 05/06 sắp tới. Có khả năng thực tập toàn thời gian từ thứ 2 đến thứ 6.Có tinh thần trách nhiệm, khả năng làm việc nhóm và niềm yêu thích lập trình Game.",
-      "flex": 6,
-      "src": "https://jobnet.com.vn/image//company/gameloft.png",
-      "post": "October 4-11 hours ago",
-      "salary": "3500",
-      "address": "Tòa nhà Pax Sky, 26 Ung Văn Khiêm, phường 25, quận Bình Thạnh",
-      "experience": "student"
-    },
-    {
-      "id": 14,
-      "company": "Phương Nam Telecom",
-      "job": "Kỹ thuật viên đào tạo nội bộ",
-      "body": "Job descriptions.  Hỗ trợ xây dựng storyboard bài giảng. Chuyển thể nội dung trên phần mềm thiết kế bài giảng. Số hoá bài giảng (gắn âm thanh/hình ảnh/lời thoại/ làm tương tác cho phù hợp). Lập kế hoạch đào tạo theo tháng, quý, năm. Quản lý và triển khai các chương trình đào tạo. Giảng dạy, theo dõi và đánh giá học viên. Hỗ trợ các chi nhánh tỉnh tổ chức các chương trình đào tạo. Thực hiện các báo cáo định kỳ về công tác đào tạo. Các công việc khác theo sự phân công của Trưởng bộ phận",
-      "flex": 6,
-      "src": "https://jobnet.com.vn/image//company/phuongnamtel.png",
-      "post": "March 12-1 hours ago",
-      "salary": "2500",
-      "address": "130 Đường 40 KDC Tân Quy Đông, Phường Tân Phong, Quận 7, TPHCM",
-      "experience": "student"
-    },
-    {
-      "id": 15,
-      "company": "KMS Technology",
-      "job": "FRESHER FULL-STACK MOBILE SOFTWARE ENGINEER (KOBITON - GLOBAL PRODUCT)",
-      "body": "Job descriptions. Develop features and enhancements on existing products based on defined requirements and designs. Follow given procedures and instructions to produce well-designed, testable and clean code. Working on NodeJS and mobile frameworks. Integration between cross environments - desktop, web and mobile. Read log files and write automation test-scripts to investigate issues. Write samples and documents to guide for end-users",
-      "flex": 6,
-      "src": "https://jobnet.com.vn/image//company/kms.png",
-      "post": "March 2-5 minutes ago",
-      "salary": "200",
-      "address": "123 Cộng Hoà, phường 12, Tân Bình, TP HCM",
-      "experience": "student"
-    }  
+    }
   ],
     "images": [
         { "id": 0, "src": "/apply_bg.jpg", "text": "Xin chao toi la so 0" },
