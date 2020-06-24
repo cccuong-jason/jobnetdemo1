@@ -125,11 +125,22 @@
       "id": 11,
       "company": "CYBOZU VIỆT NAM",
       "job": "CHƯƠNG TRÌNH THỰC TẬP HÈ 2020",
-      "body": "Job descriptions Công ty Cybozu Việt Nam được thành lập năm 2009 là công ty con của công ty Cybozu, Inc. ở Nhật Bản chuyên về phát triển các phần mềm hỗ trợ làm việc nhóm (groupware).
+      "body": "Job descriptions Công ty Cybozu Việt Nam được thành lập năm 2009 là công ty con của công ty Cybozu, Inc. ở Nhật Bản chuyên về phát triển các phần mềm hỗ trợ làm việc nhóm (groupware).",
       "src": "https://jobnet.com.vn/image//company/cybozuvn.png",
       "post": "7 hours ago",
       "salary": "4000",
       "address": "106 Nguyễn Văn Trỗi,Phường 8, Quận Phú Nhuận, TP. Hồ Chí Minh",
+      "experience": "student"
+    },
+    {
+      "id": 12,
+      "company": "Toshiba",
+      "job": "C/C++ Software Engineer",
+      "body": "Tham gia chương trình Đào tạo nhân viên mới: Đào tạo chuyên sâu, tổng thời gian đào tạo là 2 tháng để chuẩn bị các kiến thức và hoàn thiện kỹ năng trước khi tham gia vào dự án.",
+      "src": "https://cdn.itviec.com/employers/toshiba-software-development-viet-nam-co-ltd/logo/w170/qmEermNPcp6FuQfTvY7J91na/toshiba-software-development-viet-nam-co-ltd-logo.png",
+      "post": "5 minutes ago",
+      "salary": "55000",
+      "address": " 519 Kim Ma, Ba Dinh, Ha Noi",
       "experience": "student"
     }
   ]
