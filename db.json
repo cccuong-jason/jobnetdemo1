@@ -143,7 +143,67 @@
       "salary": "4000",
       "address": "Phòng 101, Tầng 1, Tòa nhà Centre Point, 106 Nguyễn Văn Trỗi,Phường 8, Quận Phú Nhuận, TP. Hồ Chí Minh",
       "experience": "student"
-    }       
+    },
+    {
+      "id": 12,
+      "company": "Toshiba",
+      "job": "C/C++ Software Engineer",
+      "body": "Tham gia chương trình Đào tạo nhân viên mới: Đào tạo chuyên sâu, tổng thời gian đào tạo là 2 tháng để chuẩn bị các kiến thức và hoàn thiện kỹ năng trước khi tham gia vào dự án, với các nội dung bao gồm: kiến thức về Database, Lập trình hướng đối tượng, quy trình phát triển phần mềm, quản lý rủi ro…Tham gia phát triển phần mềm cho các hệ thống và giải pháp công nghiệp của tập đoàn Toshiba trong các lĩnh vực: Năng lượng, Hệ thống & Giải pháp Cơ sở Hạ tầng, Thiết bị Điện tử và Lưu trữ, Giải pháp IoT trong Công nghiệp.",
+      "flex": 6,
+      "src": "https://cdn.itviec.com/employers/toshiba-software-development-viet-nam-co-ltd/logo/w170/qmEermNPcp6FuQfTvY7J91na/toshiba-software-development-viet-nam-co-ltd-logo.png",
+      "post": "June 6-5 minutes ago",
+      "salary": "55000",
+      "address": " 519 Kim Ma, Ba Dinh, Ha Noi",
+      "experience": "student"
+    },
+    {
+      "id": 13,
+      "company": "MAPLE LABS",
+      "job": "UX UI Designer (Mobile Apps)",
+      "body": "Design and develop conceptual diagrams, wireframes, visual mockups, prototypes, flow diagrams, and other UX/UI artifacts for mobile. Work directly with developers and project manager for implementation of designs, project goals and feasibility to create highly detailed design specifications",
+      "flex": 6,
+      "src": "https://cdn.itviec.com/employers/maple-labs/logo/w170/nV4F1Jv1FfjQYezo2oLZ7SVy/logo@3x.png",
+      "post": "February 10-6 minutes ago",
+      "salary": "50000",
+      "address": "Nguyen Co Thach, An Loi Dong, District 2, Ho Chi Minh ",
+      "experience": "student"
+    },
+    {
+      "id": 14,
+      "company": "Upinus",
+      "job": "Back-end Engineer",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis incidunt tempore odio, fugit reprehenderit dignissimos aperiam quisquam accusantium debitis enim hic sapiente at, dolores nihil adipisci asperiores, ratione laborum minima quam vero amet! Recusandae cum praesentium explicabo nam, ratione officiis ullam nisi ipsam officia impedit cupiditate in optio temporibus accusantium tempore veniam omnis quis. Corrupti quo obcaecati dolorem accusamus beatae vel quod molestias inventore alias nihil voluptas deserunt, officia quasi quibusdam suscipit! Unde corrupti dolore, alias voluptate laudantium et consequatur repudiandae quod ipsam, voluptatum quo. Ipsum, ex tempore! Voluptatibus voluptatem deserunt laudantium nemo perferendis excepturi magni. Quae obcaecati excepturi nisi ducimus incidunt, quia quod consequatur eligendi, dolorum beatae quibusdam! Aperiam ipsam mollitia corrupti omnis nostrum modi. Doloribus id qui tempore, molestias porro repudiandae? Neque fugit eius deleniti tenetur quos minima, deserunt nihil excepturi dolor iste veniam. Amet quaerat dicta voluptatem nostrum ducimus magni at! Laboriosam asperiores magni alias rerum sint, minus tempore esse enim sapiente, repellat eveniet ea dolores, modi quas reiciendis atque qui similique porro error in libero doloremque suscipit labore distinctio. Hic pariatur, aspernatur maxime, obcaecati perspiciatis reprehenderit explicabo autem sapiente consequuntur in tempora odio magnam. Illo placeat excepturi facilis ipsum, optio quisquam culpa ducimus voluptatum? At ipsum similique molestias dolores earum ducimus pariatur enim nostrum, tempora ullam sapiente nam rerum ipsam hic! Officiis sint deserunt eius perspiciatis delectus tempora perferendis quisquam earum neque sequi nostrum, amet, nulla, libero dolore suscipit. Quibusdam, asperiores tempore ullam, tenetur, reprehenderit labore quod impedit nisi similique molestiae mollitia praesentium consequatur ducimus? Vel incidunt est praesentium officia blanditiis fugit, aliquam eos quas placeat rerum inventore, labore iste dignissimos asperiores a reiciendis, provident omnis cum illo quasi? Sit ex iste suscipit necessitatibus deleniti adipisci ut velit, ea voluptatum est vel quod beatae similique soluta fugit dicta non molestiae voluptate voluptates. Excepturi aliquam inventore aliquid?",
+      "flex": 6,
+      "src": "https://cdn.itviec.com/employers/upinus/logo/w170/UqSjmxdkneRm7nCPzNf6CPRB/unnamed%20(2).png",
+      "post": "November 30-1 minutes ago",
+      "salary": "30000",
+      "address": "Tầng 4 - Tòa Nhà Sun Ancora - Số 3 Lương Yên - Bạch Đằng, Hai Ba Trung, Ha Noi",
+      "experience": "student"
+    },
+    {
+      "id": 15,
+      "company": "Sendo.vn",
+      "job": "Automation QC Engineer",
+      "body": "We are looking for Automation Quality Control Engineer to develop and execute the testing activities for our well-known products of the Sendo.vn. The Automation Quality Control engineer’s responsibilities include estimating, planning and coordinate the testing activities. You will also ensure the quality of the product issues and defects are appropriately identified, documented, tracked and resolved. ",
+      "flex": 6,
+      "src": "https://cdn.itviec.com/employers/sendo-vn/logo/w170/LdDQX1mXSSRgfoH9DRCfxU3t/sendo-vn-logo.jpg",
+      "post": "March 30-10 minutes ago",
+      "salary": "450",
+      "address": "29 Đường Tân Thuận (Tòa nhà FPT Tân Thuận), District 7, Ho Chi Minh",
+      "experience": "student"
+    },
+    {
+      "id": 16,
+      "company": "CyberOne Security",
+      "job": "System Developer (C/C++)",
+      "body": "Chế độ khen thưởng và phúc lợi phong phú (lương tháng 13, thưởng khi hoàn thành dự án, thưởng cho nhân viên có thành tích tốt trong năm, thưởng vào các ngày lễ, ...).",
+      "flex": 6,
+      "src": "https://cdn.itviec.com/employers/cyberone-security/logo/w170/mpM7cZ5zuGdtwo5g6h98847Q/_logo%20-%20Hong%20Anh%20Nguyen.png",
+      "post": "April 30-1 hour ago",
+      "salary": "410",
+      "address": "Nguyễn Văn Trỗi, Phu Nhuan, Ho Chi Minh",
+      "experience": "student"
+    }
   ],
     "images": [
         { "id": 0, "src": "/apply_bg.jpg", "text": "Xin chao toi la so 0" },
