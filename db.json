@@ -120,6 +120,17 @@
       "salary": "5500",
       "address": "364 Cộng Hoà, P. 13, Q. Tân Bình, Tp. HCM.",
       "experience": "student"
+    },
+    {
+      "id": 11,
+      "company": "CYBOZU VIỆT NAM",
+      "job": "CHƯƠNG TRÌNH THỰC TẬP HÈ 2020",
+      "body": "Job descriptions Công ty Cybozu Việt Nam được thành lập năm 2009 là công ty con của công ty Cybozu, Inc. ở Nhật Bản chuyên về phát triển các phần mềm hỗ trợ làm việc nhóm (groupware).
+      "src": "https://jobnet.com.vn/image//company/cybozuvn.png",
+      "post": "7 hours ago",
+      "salary": "4000",
+      "address": "106 Nguyễn Văn Trỗi,Phường 8, Quận Phú Nhuận, TP. Hồ Chí Minh",
+      "experience": "student"
     }
   ]
 }
